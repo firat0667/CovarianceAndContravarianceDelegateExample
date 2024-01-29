@@ -1,0 +1,15 @@
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.AssemblyInfoInputs.cache
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.AssemblyInfo.cs
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.csproj.CoreCompileInputs.cache
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.sourcelink.json
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\bin\Debug\net8.0\csharpWorks.exe
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\bin\Debug\net8.0\csharpWorks.deps.json
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\bin\Debug\net8.0\csharpWorks.runtimeconfig.json
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\bin\Debug\net8.0\csharpWorks.dll
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\bin\Debug\net8.0\csharpWorks.pdb
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.dll
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\refint\csharpWorks.dll
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.pdb
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\csharpWorks.genruntimeconfig.cache
+C:\Users\firat\Documents\GitHub\CovarianceAndContravarianceDelegateExample\csharpWorks\csharpWorks\obj\Debug\net8.0\ref\csharpWorks.dll
